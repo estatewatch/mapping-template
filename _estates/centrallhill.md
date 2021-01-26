@@ -1,7 +1,6 @@
 ---
 name: Central Hill estate 
-layout: default
-thumb: /images/centrallhillthumb.jpg
+category: estates
 images:
   - image_path: /images/centrallhill.jpg
   - image_path: /images/central1.jpg
@@ -9,7 +8,7 @@ images:
   - image_path: /images/central3.jpg
   - image_path: /images/central4.jpg
 coordinates: 
-  - -0.085651,51.420034
+  - '-0.085651,51.420034'
 ---
 476 homes are earmarked for demolition on Lambeth's Central Hill estate.
 
