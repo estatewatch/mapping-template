@@ -125,8 +125,9 @@ title: "Estates under threat"
     <div class="container">
 
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-        <div class="col">
 		 {% for estate in site.estates %}
+	              <div class="col">
+
           <div class="card shadow-sm">
 		  <a href="{{ estate.url }}">
                       <img class="card-img-top" src="{{ estate.images.first.image_path }}" alt="{{ estate.name }}">
