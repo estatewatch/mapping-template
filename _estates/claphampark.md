@@ -1,9 +1,6 @@
 ---
-category: underthreat
-stage: Implementation 
+category: estates
 name: Clapham Park estate 
-borough: lambeth
-thumb: /images/cpark6thumb.jpg
 images:
   - image_path: /images/cpark6.jpg
   - image_path: /images/cpark5.png
@@ -12,7 +9,7 @@ images:
   - image_path: /images/cpark1.png
   - image_path: /images/cpark4.png
 coordinates: 
-  - -0.133379,51.449331
+  - '-0.133379,51.449331'
 ---
 864 homes are earmarked for demolition on Lambeth's Clapham Park estate.
 
