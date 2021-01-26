@@ -1,6 +1,6 @@
 ---
 name: Central Hill estate 
-category: estates
+category: underthreat
 images:
   - image_path: /images/centrallhill.jpg
   - image_path: /images/central1.jpg
