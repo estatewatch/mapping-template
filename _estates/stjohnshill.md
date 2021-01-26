@@ -1,9 +1,6 @@
 ---
-category: underthreat
-stage: Implementation 
+category: estates
 name: St John's Hill estate 
-borough: wandsworth
-thumb: /images/sj4thumb.jpg
 images:
   - image_path: /images/sj4.jpg
   - image_path: /images/sj1.jpg
@@ -14,7 +11,7 @@ images:
   - image_path: /images/sj7.jpg
   - image_path: /images/sj8.jpg
 coordinates: 
-  - -0.170662,51.462352
+  - '-0.170662,51.462352'
 ---
 Circa 100 homes remain earmarked for demolition in phase 3 of Peabody's redevelopment of the St John's Hill estate near Clapham Junction.
 
