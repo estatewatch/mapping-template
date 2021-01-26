@@ -1,16 +1,13 @@
 ---
-category: underthreat
-stage: Proposal
+category: estates
 name: Cressingham Gardens estate 
-borough: lambeth
-thumb: /images/cressinghamthumb.jpg
 images:
   - image_path: /images/cressingham.jpg
   - image_path: /images/cressingham2.jpg
   - image_path: /images/cressingham3.jpg
   - image_path: /images/cressingham4.jpeg
 coordinates: 
-  - -0.111587,51.446517
+  - '-0.111587,51.446517'
 ---
 306 homes are earmarked for demolition on Lambeth's Cressingham Gardens estate at Brockwell Park.
 
