@@ -17,7 +17,7 @@ title: "Estates under threat"
   <div class="carousel-inner">
 	  
 	  {% for estate in site.estates %}
-    <div class="carousel-item {% if site.estates == site.estates.first %}active{% endif %}" data-bs-interval="4000">
+    <div class="carousel-item {% if forloop.first %}active{% endif %}" data-bs-interval="4000">
       <img src="{{ estate.images.first.image_path }}" class="d-block w-100 rounded" alt="...">
       <div class="carousel-caption d-none d-md-block bg-dark mb-4">
 	      <h5><a href="{{ estate.url }}">{{ estate.name }}</a></h5>
