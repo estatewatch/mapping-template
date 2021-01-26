@@ -1,9 +1,6 @@
 ---
-category: underthreat
-stage: Preparation 
+category: estates
 name: Geoffrey Close (Lambeth) estate 
-borough: lambeth
-thumb: /images/clethumb.jpg
 images:
   - image_path: /images/cle8.jpg
   - image_path: /images/cle7.jpg
@@ -14,7 +11,7 @@ images:
   - image_path: /images/cle2.jpg
   - image_path: /images/cle1.jpg
 coordinates: 
-  - -0.099011,51.469493
+  - '-0.099011,51.469493'
 ---
 135 homes are earmarked for demolition on Lambeth's Geoffrey Close estate near Coldharbour Lane.
 
