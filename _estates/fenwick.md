@@ -10,7 +10,7 @@ images:
   - image_path: /images/fw6.jpg
   - image_path: /images/fw1.jpg
 coordinates: 
-  - '-0.127468,51.464695'
+  - -0.127468,51.464695
 ---
 431 homes are earmarked for demolition on Lambeth's Fenwick estate in Clapham.
 
