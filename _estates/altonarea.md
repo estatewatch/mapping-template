@@ -1,16 +1,14 @@
 ---
 name: Alton estate 
-layout: estates
-thumb: /images/altonthumb.jpg
+category: estates
 images:
-  - image_path: /images/altonthumblarge.jpg
   - image_path: /images/altont1.jpg
   - image_path: /images/altont2.jpg
   - image_path: /images/altonlibrary.jpg
   - image_path: /images/alton2.jpg
   - image_path: /images/alton.jpg
 coordinates: 
-  - -0.243483,51.450221
+  - '-0.243483,51.450221'
 ---
 288 homes are earmarked for demolition on Wandsworth's Alton estate in Roehampton.
 
