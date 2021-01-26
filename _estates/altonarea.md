@@ -1,6 +1,6 @@
 ---
 name: Alton estate 
-layout: default
+layout: estates
 thumb: /images/altonthumb.jpg
 images:
   - image_path: /images/altonthumblarge.jpg
