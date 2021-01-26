@@ -15,27 +15,16 @@ title: "Estates under threat"
     <li data-bs-target="#carouselExampleDark" data-bs-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
+	  {% for estate in site.estates %}
     <div class="carousel-item active" data-bs-interval="4000">
-      <img src="images/slb3.jpg" class="d-block w-100 rounded" alt="...">
+      <img src="{{ estate.images.first.image_path }}" class="d-block w-100 rounded" alt="...">
       <div class="carousel-caption d-none d-md-block bg-dark mb-4">
-        <h5>First slide label</h5>
-        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+        <h5>{{ estate.name }}</h5>
+        <p>{{ estate.excerpt }}</p>
+	                            <a target="_blank" href="{{ estate.url }}" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
       </div>
     </div>
-    <div class="carousel-item" data-bs-interval="4000">
-      <img src="images/slb4.jpg" class="d-block w-100 rounded" alt="...">
-      <div class="carousel-caption d-none d-md-block bg-dark mb-4">
-        <h5>Second slide label</h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-    <div class="carousel-item" data-bs-interval="4000">
-      <img src="images/slb5.jpg" class="d-block w-100 rounded" alt="...">
-      <div class="carousel-caption d-none d-md-block bg-dark mb-4">
-        <h5>Third slide label</h5>
-        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-      </div>
-    </div>
+ 
   </div>
   <a class="carousel-control-prev" href="#carouselExampleDark" role="button" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
