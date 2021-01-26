@@ -1,8 +1,6 @@
 ---
-category: underthreat
-stage: Preparation
 name: Alton estate 
-borough: wandsworth
+layout: default
 thumb: /images/altonthumb.jpg
 images:
   - image_path: /images/altonthumblarge.jpg
