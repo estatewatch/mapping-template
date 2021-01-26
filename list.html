@@ -15,7 +15,7 @@ title: "Estates under threat"
     <li data-bs-target="#carouselExampleDark" data-bs-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
-	  {% assign lastestate = site.estates.last %}
+	  {% assign lastestate = site.estates[5] %}
 	  {% for estate in lastestate %}
 	   <div class="carousel-item active" data-bs-interval="4000">
       <img src="{{ estate.images.first.image_path }}" class="d-block w-100 rounded" alt="...">
