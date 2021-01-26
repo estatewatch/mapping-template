@@ -1,9 +1,6 @@
 ---
-category: underthreat
-stage: Implementation 
+category: estates
 name: South Lambeth estate 
-borough: lambeth
-thumb: /images/slb5thumb.jpg
 images:
   - image_path: /images/slb5.jpg
   - image_path: /images/slb4.jpg
@@ -11,7 +8,7 @@ images:
   - image_path: /images/slb2.jpg
   - image_path: /images/slb1.jpg
 coordinates: 
-  - -0.118861,51.478668
+  - '-0.118861,51.478668'
 ---
 101 homes are earmarked for demolition on Lambeth's South Lambeth estate.
 
