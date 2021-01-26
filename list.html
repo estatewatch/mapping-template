@@ -19,9 +19,8 @@ title: "Estates under threat"
     <div class="carousel-item active" data-bs-interval="4000">
       <img src="{{ estate.images.first.image_path }}" class="d-block w-100 rounded" alt="...">
       <div class="carousel-caption d-none d-md-block bg-dark mb-4">
-        <h5>{{ estate.name }}</h5>
+	      <h5><a href="{{ estate.url }}" {{ estate.name }}</a></h5>
         <p>{{ estate.excerpt }}</p>
-	                            <a target="_blank" href="{{ estate.url }}" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
       </div>
     </div>
  {% endfor %}
