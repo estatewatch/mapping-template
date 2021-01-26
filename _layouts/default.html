@@ -62,6 +62,10 @@
 </nav>
 
 <main class="container">
+  
+  {% if page.category == 'estates' %}
+{% include carousel.html %}
+{% endif %}
 
  {{ content }}
 
