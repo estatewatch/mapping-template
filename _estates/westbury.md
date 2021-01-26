@@ -1,10 +1,6 @@
 ---
-erg: noncompliant
-category: underthreat
-stage: Implementation 
+category: estates
 name: Westbury estate 
-borough: lambeth
-thumb: /images/wb1thumb.jpg
 images:
   - image_path: /images/wb1.jpg
   - image_path: /images/wb2.jpg
@@ -18,7 +14,7 @@ images:
   - image_path: /images/wb10.jpg
   - image_path: /images/wb11.jpg
 coordinates: 
-  - -0.140646,51.470468
+  - '-0.140646,51.470468'
 ---
 In July 2019, the Mayor approved the demolition of 82 homes on Lambeth's Westbury estate, to provide 270 new homes of which just 38% affordable and only 48 social rent.
 
