@@ -1,6 +1,7 @@
 ---
 category: estates
-name: Cressingham Gardens estate 
+name: Cressingham Gardens estate
+stage: Proposal
 images:
   - image_path: /images/cressingham.jpg
   - image_path: /images/cressingham2.jpg
