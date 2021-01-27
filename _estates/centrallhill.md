@@ -1,6 +1,7 @@
 ---
 name: Central Hill estate 
 category: underthreat
+stage: Proposal
 images:
   - image_path: /images/centrallhill.jpg
   - image_path: /images/central1.jpg
