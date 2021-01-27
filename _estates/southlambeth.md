@@ -1,6 +1,7 @@
 ---
 category: estates
-name: South Lambeth estate 
+name: South Lambeth estate
+stage: Preparation
 images:
   - image_path: /images/slb5.jpg
   - image_path: /images/slb4.jpg
