@@ -1,6 +1,7 @@
 ---
 category: estates
-name: Geoffrey Close (Lambeth) estate 
+name: Geoffrey Close estate
+stage: Proposal
 images:
   - image_path: /images/cle8.jpg
   - image_path: /images/cle7.jpg
