@@ -1,6 +1,7 @@
 ---
 category: estates
-name: Westbury estate 
+name: Westbury estate
+stage: Implementation
 images:
   - image_path: /images/wb1.jpg
   - image_path: /images/wb2.jpg
