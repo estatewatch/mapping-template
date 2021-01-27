@@ -1,6 +1,7 @@
 ---
 category: estates
-name: Clapham Park estate 
+name: Clapham Park estate
+stage: Implementation
 images:
   - image_path: /images/cpark6.jpg
   - image_path: /images/cpark5.png
