@@ -2,6 +2,7 @@
 layout: default
 name: Alton estate 
 category: estates
+stage: Proposal
 images:
   - image_path: /images/altont1.jpg
   - image_path: /images/altont2.jpg
