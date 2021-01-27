@@ -1,6 +1,7 @@
 ---
 category: estates
-name: Denby Court 
+name: Denby Court
+stage: Preparation
 images:
   - image_path: /images/denby1.png
   - image_path: /images/denby2.png
