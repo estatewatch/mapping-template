@@ -1,6 +1,7 @@
 ---
 category: estates
-name: Winstanley & York Road estates 
+name: Winstanley & York Road estates
+stage: Preparation
 images:
   - image_path: /images/wy22.jpg
   - image_path: /images/wy1.jpg
