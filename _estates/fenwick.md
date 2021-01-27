@@ -1,6 +1,7 @@
 ---
 category: estates
 name: Fenwick estate 
+stage: Preparation
 images:
   - image_path: /images/fw7.jpg
   - image_path: /images/fw2.jpg
