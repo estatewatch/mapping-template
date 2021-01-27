@@ -1,6 +1,7 @@
 ---
 category: estates
-name: St John's Hill estate 
+name: St John's Hill estate
+stage: Implementation
 images:
   - image_path: /images/sj4.jpg
   - image_path: /images/sj1.jpg
