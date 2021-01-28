@@ -1,0 +1,38 @@
+---
+layout: default
+title: "Estates under threat"
+---
+
+<!----------beginning-of-cards-section------------------->
+ <div class="album py-5 bg-light">
+    <div class="container">
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+		 {% for estate in site.estates %}
+	              <div class="col">
+
+          <div class="card shadow-sm">
+		  <a href="{{ estate.url }}">
+                      <img class="card-img-top" src="{{ estate.images.first.image_path }}" alt="{{ estate.name }}">
+                    </a>
+		  
+            <div class="card-body">
+		    <a href="{{ estate.url }}">
+                      <h5 class="card-title">{{ estate.name }}</h5>
+		      </a>
+		        <p class="card-text">{{ estate.excerpt }}</p>
+                      <a target="_blank" href="{{ site.baseurl }}{{ estate.url }}" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                 
+             
+            </div>
+          </div>
+	 </div>
+
+	{% endfor %}	
+      
+
+	    </div>
+        </div>
+   </div>
+
+<!------end-of-cards-section----->
