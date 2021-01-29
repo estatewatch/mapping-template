@@ -9,17 +9,13 @@ title: "Estates under threat"
       <div class="col-lg-6 col-md-8 mx-auto">
 
 <div id="carouselExampleDark" class="carousel carousel slide" data-bs-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active"></li>
-    <li data-bs-target="#carouselExampleDark" data-bs-slide-to="1"></li>
-    <li data-bs-target="#carouselExampleDark" data-bs-slide-to="2"></li>
-  </ol>
+  
   <div class="carousel-inner">
 	  
 	  {% for estate in site.estates %}
     <div class="carousel-item {% if forloop.first %}active{% endif %}" data-bs-interval="4000">
       <img src="{{ estate.images.first.image_path }}" class="d-block w-100 rounded" alt="...">
-      <div class="carousel-caption d-none d-md-block bg-dark mb-4">
+      <div class="carousel-caption d-none d-md-block">
 	      <h5><a href="{{ estate.url }}">{{ estate.name }}</a></h5>
         <p>{{ estate.excerpt }}</p>
       </div>
