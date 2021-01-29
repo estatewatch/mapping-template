@@ -16,8 +16,8 @@ title: "Estates under threat"
     <div class="carousel-item {% if forloop.first %}active{% endif %}" data-bs-interval="4000">
       <img src="{{ estate.images.first.image_path }}" class="d-block w-100 rounded" alt="...">
       <div class="carousel-caption d-none d-md-block">
-	      <h5><a href="{{ estate.url }}">{{ estate.name }}</a></h5>
-        <p>{{ estate.excerpt }}</p>
+	      <h3><a href="{{ estate.url }}">{{ estate.name }}</a></h3>
+        
       </div>
     </div>
  {% endfor %}
