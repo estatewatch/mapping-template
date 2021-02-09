@@ -8,7 +8,7 @@ This is the source code of the mapping framework used by the Estate Watch websit
 
 You can use the code to make your own free mapping website by [setting up a github account](github.com/signup) and just editing the text files.
 
-## Fork this repository and edit the files — that's it!
+## Fork [this repository](https://github.com/estatewatch/mapping-template) and edit the files — that's it!
 
 ## 1. Set up a [github.com](http://github.com/signup) account and then click the 'fork' button to create your own copy of this template.
 
